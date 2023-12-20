@@ -1,4 +1,2 @@
 # Images
-![Image Alt text](/images/img.jpg
-
-![Image Alt text]("Piano"))
+![Alt text](relative%20path/to/img.jpg?raw=true "pianopng")
